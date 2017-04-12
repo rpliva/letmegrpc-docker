@@ -1,0 +1,5 @@
+.git
+.dockerignore
+circle.yml
+Makefile
+test

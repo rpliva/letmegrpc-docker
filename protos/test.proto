@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package rpliva.letmegrpc.test;
+
+service TestService {
+    rpc Foo(FooRequest) returns (FooResponse) {}
+}
+
+message FooRequest {
+    string name = 1;
+}
+
+message FooResponse {
+    string name = 1;
+}
