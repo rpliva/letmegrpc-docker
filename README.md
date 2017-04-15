@@ -26,4 +26,9 @@ To specified which proto file should be used the image reads environment variabl
 
 ### Create own image based this one
 
+TBD
+
 ## Limitations
+
+- it will only work for single file proto specs
+- RPC methods must to start with capital case letter
