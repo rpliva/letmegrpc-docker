@@ -6,6 +6,9 @@
 
 **Letmegrpc** is project which generates a web form GUI from a [grpc](http://www.grpc.io/) definition.
 
+![image](https://github.com/gogo/letmegrpc/blob/master/screenshot.png "ScreenShot")
+> Source of screenshot: https://github.com/gogo/letmegrpc
+
 ## How to use this image
 
 **letmegrpc** server runs in default container port 8080. 
